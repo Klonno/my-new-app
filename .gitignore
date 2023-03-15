@@ -7,3 +7,5 @@
 /bin/Debug/net7.0
 /ClientApp/node_modules
 /ClientApp/.env.development.local
+/ClientApp/package.json
+/ClientApp/package-lock.json
