@@ -5,3 +5,5 @@
 /.vs
 /obj
 /bin/Debug/net7.0
+/ClientApp/node_modules
+/ClientApp/.env.development.local
